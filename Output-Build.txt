@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Assembly-CSharp, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3277: Found conflicts between different versions of "System.Net.Http" that could not be resolved.  These reference conflicts are listed in the build log when log verbosity is set to detailed.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3277: Found conflicts between different versions of "System.Security.Cryptography.Algorithms" that could not be resolved.  These reference conflicts are listed in the build log when log verbosity is set to detailed.
+1>C:\Users\idont\SplashPortal\Assets\PlayerCharacter.cs(9,40,9,43): warning CS0649: Field 'PlayerCharacter._rb' is never assigned to, and will always have its default value null
+1>  Assembly-CSharp -> C:\Users\idont\SplashPortal\Temp\Bin\Debug\Assembly-CSharp.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
